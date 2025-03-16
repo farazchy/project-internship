@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>When to Fly</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/whenToFLy.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="index.html">MetaFly</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mx-auto text-center">
+              <li class="nav-item">
+                <a class="nav-link active" href="whereToFly.html">Where to Fly</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="whenToFly.html">When to Fly</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="metabot.html">Get Recommendations</a>
+              </li>
+            </ul>
+            <div class="d-lg-flex d-block text-center mt-2 mt-lg-0">
+              <button class="btn btn-outline-success" type="submit">Log In</button>
+            </div>
+          </div>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h2>Flight Price Insights</h2>
+
+        <div class="row">
+            <div class="col-5">
+                <input type="text" id="departure" class="form-control" placeholder="Enter Departure Airport (e.g., BOS)">
+            </div>
+            <div class="col-5">
+                <input type="text" id="destination" class="form-control" placeholder="Enter Destination Airport (e.g., LGA)">
+            </div>
+            <div class="col-2">
+                <button onclick="searchFlights()" class="btn btn-success w-100">Find Insights</button>
+            </div>
+        </div>
+
+        <!-- Charts -->
+        <div class="chart-container">
+            <h3>Price Trends Over Time</h3>
+            <canvas id="priceTrendChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <h3>Cheapest Days to Fly</h3>
+            <canvas id="cheapestDaysChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <h3>Cheapest Months to Fly</h3>
+            <canvas id="cheapestMonthsChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <h3>Airline Price Comparison</h3>
+            <canvas id="airlineComparisonChart"></canvas>
+        </div>
+
+        <div class="chart-container">
+            <h3>Best Booking Lead Time</h3>
+            <canvas id="bestBookingLeadTimeChart"></canvas>
+        </div>
+    </div>
+
+    <footer class="text-light py-4">
+        <div class="text-center">
+            <p class="mb-0">&copy; All rights reserved. MetaFly 2025.</p>
+        </div>
+    </footer>
+
+    <script src="js/whenToFlight.js"></script>
+
+</body>
+</html>
