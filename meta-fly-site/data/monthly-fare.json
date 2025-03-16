@@ -1,0 +1,82 @@
+[
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "CLT",
+    "avg_fare": 862.6,
+    "min_fare": 268.6,
+    "max_fare": 1665.6,
+    "stddev_fare": 586.3
+  },
+  {
+    "startingAirport": "DFW",
+    "destinationAirport": "EWR",
+    "avg_fare": 250.1,
+    "min_fare": 235.6,
+    "max_fare": 298.6,
+    "stddev_fare": 27.6
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "CLT",
+    "avg_fare": 319.3,
+    "min_fare": 296.6,
+    "max_fare": 403.9,
+    "stddev_fare": 42.0
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "LGA",
+    "avg_fare": 250.2,
+    "min_fare": 208.6,
+    "max_fare": 598.6,
+    "stddev_fare": 111.0
+  },
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "PHL",
+    "avg_fare": 592.7,
+    "min_fare": 213.6,
+    "max_fare": 1516.6,
+    "stddev_fare": 559.4
+  },
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "LAX",
+    "avg_fare": 659.0,
+    "min_fare": 353.6,
+    "max_fare": 2655.6,
+    "stddev_fare": 567.2
+  },
+  {
+    "startingAirport": "ATL",
+    "destinationAirport": "BOS",
+    "avg_fare": 313.9,
+    "min_fare": 248.6,
+    "max_fare": 410.1,
+    "stddev_fare": 69.8
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "DFW",
+    "avg_fare": 248.6,
+    "min_fare": 243.1,
+    "max_fare": 268.1,
+    "stddev_fare": 11
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "ORD",
+    "avg_fare": 207.7,
+    "min_fare": 201.1,
+    "max_fare": 267.1,
+    "stddev_fare": 20.8
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "SFO",
+    "avg_fare": 473.1,
+    "min_fare": 163.9,
+    "max_fare": 638.6,
+    "stddev_fare": 139.7
+  }
+]

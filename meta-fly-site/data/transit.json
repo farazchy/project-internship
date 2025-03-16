@@ -1,0 +1,52 @@
+[
+  {
+    "segmentsDepartureAirportCode": "CLT||ATL",
+    "segmentsArrivalAirportCode": "ATL||BOS",
+    "cheapestLayoverFare": 106.1
+  },
+  {
+    "segmentsDepartureAirportCode": "CLT||ORD",
+    "segmentsArrivalAirportCode": "ORD||BOS",
+    "cheapestLayoverFare": 106.1
+  },
+  {
+    "segmentsDepartureAirportCode": "CLT||PHL",
+    "segmentsArrivalAirportCode": "PHL||BOS",
+    "cheapestLayoverFare": 106.1
+  },
+  {
+    "segmentsDepartureAirportCode": "BOS||STL",
+    "segmentsArrivalAirportCode": "STL||ORD",
+    "cheapestLayoverFare": 127.6
+  },
+  {
+    "segmentsDepartureAirportCode": "DTW||IAD",
+    "segmentsArrivalAirportCode": "IAD||BOS",
+    "cheapestLayoverFare": 132.61
+  },
+  {
+    "segmentsDepartureAirportCode": "ATL||LGA",
+    "segmentsArrivalAirportCode": "LGA||ORD",
+    "cheapestLayoverFare": 149.6
+  },
+  {
+    "segmentsDepartureAirportCode": "CLT||IAD",
+    "segmentsArrivalAirportCode": "IAD||BOS",
+    "cheapestLayoverFare": 151.1
+  },
+  {
+    "segmentsDepartureAirportCode": "DTW||CLT",
+    "segmentsArrivalAirportCode": "CLT||BOS",
+    "cheapestLayoverFare": 156.1
+  },
+  {
+    "segmentsDepartureAirportCode": "DTW||PHL",
+    "segmentsArrivalAirportCode": "PHL||BOS",
+    "cheapestLayoverFare": 157.6
+  },
+  {
+    "segmentsDepartureAirportCode": "DTW||EWR",
+    "segmentsArrivalAirportCode": "EWR||BOS",
+    "cheapestLayoverFare": 157.6
+  }
+]

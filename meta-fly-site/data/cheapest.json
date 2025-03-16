@@ -1,0 +1,52 @@
+[
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "BOS",
+    "cheapestFare": 97.1
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "PHL",
+    "cheapestFare": 122.48
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "OAK",
+    "cheapestFare": 123.98
+  },
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "LGA",
+    "cheapestFare": 133.6
+  },
+  {
+    "startingAirport": "ATL",
+    "destinationAirport": "DEN",
+    "cheapestFare": 133.98
+  },
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "ORD",
+    "cheapestFare": 138.6
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "PHL",
+    "cheapestFare": 143.99
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "BOS",
+    "cheapestFare": 148.6
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "LAX",
+    "cheapestFare": 153.99
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "SFO",
+    "cheapestFare": 163.98
+  }
+]

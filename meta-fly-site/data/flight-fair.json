@@ -1,0 +1,92 @@
+[
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "DFW",
+    "destinationAirport": "ATL",
+    "avgFare": 282.3,
+    "minFare": 166.98,
+    "maxFare": 498.6,
+    "stddevFare": 89.1
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "ATL",
+    "destinationAirport": "MIA",
+    "avgFare": 283.3,
+    "minFare": 178.6,
+    "maxFare": 428.6,
+    "stddevFare": 82.7
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "ATL",
+    "destinationAirport": "LAX",
+    "avgFare": 579.8,
+    "minFare": 498.6,
+    "maxFare": 598.6,
+    "stddevFare": 40.3
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "DEN",
+    "destinationAirport": "ORD",
+    "avgFare": 587.5,
+    "minFare": 244.6,
+    "maxFare": 1802.6,
+    "stddevFare": 442.2
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "DTW",
+    "destinationAirport": "ATL",
+    "avgFare": 498.6,
+    "minFare": 498.6,
+    "maxFare": 498.6,
+    "stddevFare": 0.0
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "DFW",
+    "destinationAirport": "BOS",
+    "avgFare": 286.6,
+    "minFare": 252.6,
+    "maxFare": 367.6,
+    "stddevFare": 48.2
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "DFW",
+    "destinationAirport": "DTW",
+    "avgFare": 335.7,
+    "minFare": 324.6,
+    "maxFare": 374.6,
+    "stddevFare": 22.0
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "CLT",
+    "destinationAirport": "SFO",
+    "avgFare": 344.1,
+    "minFare": 344.1,
+    "maxFare": 344.1,
+    "stddevFare": 0.0
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "CLT",
+    "destinationAirport": "JFK",
+    "avgFare": 397.1,
+    "minFare": 397.1,
+    "maxFare": 397.1,
+    "stddevFare": 0.0
+  },
+  {
+    "searchDate": "2022-04-16",
+    "startingAirport": "DFW",
+    "destinationAirport": "LAX",
+    "avgFare": 324.2,
+    "minFare": 296.6,
+    "maxFare": 421.6,
+    "stddevFare": 36.9
+  }
+]

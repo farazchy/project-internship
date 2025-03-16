@@ -1,0 +1,72 @@
+[
+  {
+    "destinationAirport": "BOS",
+    "startingAirport": "CLT",
+    "cheapestFare": 97.1,
+    "mostExpensiveFare": 97.1,
+    "numFlights": 13
+  },
+  {
+    "destinationAirport": "PHL",
+    "startingAirport": "CLT",
+    "cheapestFare": 122.4,
+    "mostExpensiveFare": 2099.1,
+    "numFlights": 8
+  },
+  {
+    "destinationAirport": "LGA",
+    "startingAirport": "BOS",
+    "cheapestFare": 133.6,
+    "mostExpensiveFare": 584.6,
+    "numFlights": 25
+  },
+  {
+    "destinationAirport": "DEN",
+    "startingAirport": "ATL",
+    "cheapestFare": 133.9,
+    "mostExpensiveFare": 296.1,
+    "numFlights": 12
+  },
+  {
+    "destinationAirport": "ORD",
+    "startingAirport": "BOS",
+    "cheapestFare": 138.6,
+    "mostExpensiveFare": 1961.6,
+    "numFlights": 29
+  },
+  {
+    "destinationAirport": "PHL",
+    "startingAirport": "DEN",
+    "cheapestFare": 143.9,
+    "mostExpensiveFare": 361.6,
+    "numFlights": 4
+  },
+  {
+    "destinationAirport": "BOS",
+    "startingAirport": "DTW",
+    "cheapestFare": 148.6,
+    "mostExpensiveFare": 248.6,
+    "numFlights": 7
+  },
+  {
+    "destinationAirport": "LAX",
+    "startingAirport": "DEN",
+    "cheapestFare": 153.99,
+    "mostExpensiveFare": 1693.6,
+    "numFlights": 16
+  },
+  {
+    "destinationAirport": "SFO",
+    "startingAirport": "DEN",
+    "cheapestFare": 163.9,
+    "mostExpensiveFare": 638.6,
+    "numFlights": 10
+  },
+  {
+    "destinationAirport": "ATL",
+    "startingAirport": "DFW",
+    "cheapestFare": 166.9,
+    "mostExpensiveFare": 498.6,
+    "numFlights": 18
+  }
+]

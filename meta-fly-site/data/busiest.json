@@ -1,0 +1,42 @@
+[
+  {
+    "startingAirport": "LAX",
+    "count": 103645
+  },
+  {
+    "startingAirport": "LGA",
+    "count": 80752
+  },
+  {
+    "startingAirport": "BOS",
+    "count": 76455
+  },
+  {
+    "startingAirport": "DFW",
+    "count": 73045
+  },
+  {
+    "startingAirport": "SFO",
+    "count": 71166
+  },
+  {
+    "startingAirport": "ORD",
+    "count": 70767
+  },
+  {
+    "startingAirport": "ATL",
+    "count": 68423
+  },
+  {
+    "startingAirport": "CLT",
+    "count": 68121
+  },
+  {
+    "startingAirport": "MIA",
+    "count": 67672
+  },
+  {
+    "startingAirport": "PHL",
+    "count": 61574
+  }
+]

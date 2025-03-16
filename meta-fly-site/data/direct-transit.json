@@ -1,0 +1,72 @@
+[
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "OAK",
+    "cheapestDirectFare": "Unavailable",
+    "cheapestTransitFare": 435.1,
+    "fareDifference": "Unavailable"
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "MIA",
+    "cheapestDirectFare": 228.1,
+    "cheapestTransitFare": 210.1,
+    "fareDifference": 18.0
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "PHL",
+    "cheapestDirectFare": 468.61,
+    "cheapestTransitFare": 189.1,
+    "fareDifference": 279.51
+  },
+  {
+    "startingAirport": "ATL",
+    "destinationAirport": "ORD",
+    "cheapestDirectFare": 190.6,
+    "cheapestTransitFare": 149.6,
+    "fareDifference": 41.0
+  },
+  {
+    "startingAirport": "ATL",
+    "destinationAirport": "CLT",
+    "cheapestDirectFare": 398.6,
+    "cheapestTransitFare": 387.6,
+    "fareDifference": 11.0
+  },
+  {
+    "startingAirport": "DFW",
+    "destinationAirport": "DEN",
+    "cheapestDirectFare": 192.99,
+    "cheapestTransitFare": 164.39,
+    "fareDifference": 28.6
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "DEN",
+    "cheapestDirectFare": 296.61,
+    "cheapestTransitFare": 200.58,
+    "fareDifference": 96.03
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "DTW",
+    "cheapestDirectFare": 447.1,
+    "cheapestTransitFare": 189.1,
+    "fareDifference": 258.0
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "OAK",
+    "cheapestDirectFare": "Unavailable",
+    "cheapestTransitFare": 367.6,
+    "fareDifference": "Unavailable"
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "MIA",
+    "cheapestDirectFare": 196.59,
+    "cheapestTransitFare": 173.6,
+    "fareDifference": 22.99
+  }
+]

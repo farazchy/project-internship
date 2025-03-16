@@ -1,0 +1,52 @@
+[
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "LGA",
+    "avgSeatsLeft": 8
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "DEN",
+    "avgSeatsLeft": 7
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "DFW",
+    "avgSeatsLeft": 6
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "EWR",
+    "avgSeatsLeft": 8
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "LGA",
+    "avgSeatsLeft": 2
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "EWR",
+    "avgSeatsLeft": 5
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "LGA",
+    "avgSeatsLeft": 3
+  },
+  {
+    "startingAirport": "DEN",
+    "destinationAirport": "BOS",
+    "avgSeatsLeft": 12
+  },
+  {
+    "startingAirport": "CLT",
+    "destinationAirport": "JFK",
+    "avgSeatsLeft": 9
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "DFW",
+    "avgSeatsLeft": 8
+  }
+]

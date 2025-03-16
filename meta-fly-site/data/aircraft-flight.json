@@ -1,0 +1,42 @@
+[
+  {
+    "segmentsEquipmentDescription": "Airbus A321",
+    "count": 241
+  },
+  {
+    "segmentsEquipmentDescription": "Boeing 737-800",
+    "count": 142
+  },
+  {
+    "segmentsEquipmentDescription": "Embraer 175",
+    "count": 67
+  },
+  {
+    "segmentsEquipmentDescription": "Airbus A320",
+    "count": 60
+  },
+  {
+    "segmentsEquipmentDescription": "Airbus A319",
+    "count": 58
+  },
+  {
+    "segmentsEquipmentDescription": "Unknown",
+    "count": 43
+  },
+  {
+    "segmentsEquipmentDescription": "Boeing 737-900",
+    "count": 38
+  },
+  {
+    "segmentsEquipmentDescription": "Boeing 717",
+    "count": 38
+  },
+  {
+    "segmentsEquipmentDescription": "Embraer 190",
+    "count": 36
+  },
+  {
+    "segmentsEquipmentDescription": "Embraer 175 (Enhanced Winglets)",
+    "count": 28
+  }
+]

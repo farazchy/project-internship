@@ -1,0 +1,62 @@
+[
+  {
+    "cleanedAirlineName": "American Airlines",
+    "totalFlights": 1044,
+    "avgFare": 359.02
+  },
+  {
+    "cleanedAirlineName": "Delta",
+    "totalFlights": 969,
+    "avgFare": 439.56
+  },
+  {
+    "cleanedAirlineName": "United",
+    "totalFlights": 744,
+    "avgFare": 444.33
+  },
+  {
+    "cleanedAirlineName": "JetBlue Airways",
+    "totalFlights": 166,
+    "avgFare": 344.01
+  },
+  {
+    "cleanedAirlineName": "Spirit Airlines",
+    "totalFlights": 136,
+    "avgFare": 328.13
+  },
+  {
+    "cleanedAirlineName": "Frontier Airlines",
+    "totalFlights": 63,
+    "avgFare": 425.37
+  },
+  {
+    "cleanedAirlineName": "Alaska Airlines",
+    "totalFlights": 34,
+    "avgFare": 1206.65
+  },
+  {
+    "cleanedAirlineName": "Key Lime Air",
+    "totalFlights": 5,
+    "avgFare": 357.92
+  },
+  {
+    "cleanedAirlineName": "Sun Country Airlines",
+    "totalFlights": 3,
+    "avgFare": 544.6
+  },
+  {
+    "cleanedAirlineName": "Cape Air",
+    "totalFlights": 2,
+    "avgFare": 779.9
+  },
+  {
+    "cleanedAirlineName": "Boutique Air",
+    "totalFlights": 1,
+    "avgFare": 583.01
+  },
+  {
+    "cleanedAirlineName": "Contour Airlines",
+    "totalFlights": 1,
+    "avgFare": 600.4
+  }
+]

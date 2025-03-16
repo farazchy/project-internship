@@ -1,0 +1,62 @@
+[
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "PHL",
+    "avgDuration": 149.4,
+    "avgPrice": 601.5
+  },
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "LGA",
+    "avgDuration": 159.3,
+    "avgPrice": 333.4
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "ORD",
+    "avgDuration": 171.4,
+    "avgPrice": 186.7
+  },
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "JFK",
+    "avgDuration": 181.3,
+    "avgPrice": 460.4
+  },
+  {
+    "startingAirport": "BOS",
+    "destinationAirport": "ORD",
+    "avgDuration": 194.2,
+    "avgPrice": 393.6
+  },
+  {
+    "startingAirport": "DTW",
+    "destinationAirport": "IAD",
+    "avgDuration": 203.3,
+    "avgPrice": 403.0
+  },
+  {
+    "startingAirport": "DFW",
+    "destinationAirport": "ATL",
+    "avgDuration": 218.4,
+    "avgPrice": 268.9
+  },
+  {
+    "startingAirport": "ATL",
+    "destinationAirport": "PHL",
+    "avgDuration": 222.2,
+    "avgPrice": 571.9
+  },
+  {
+    "startingAirport": "ATL",
+    "destinationAirport": "EWR",
+    "avgDuration": 239.5,
+    "avgPrice": 230.1
+  },
+  {
+    "startingAirport": "ATL",
+    "destinationAirport": "MIA",
+    "avgDuration": 245.0,
+    "avgPrice": 380.6
+  }
+]
